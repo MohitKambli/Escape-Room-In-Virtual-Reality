@@ -35,6 +35,11 @@
 </ul>
 <h2>APK Download Link</h2>
 <p>https://drive.google.com/file/d/12swi2FVmVpe8UuhNZS1oxATQ7SvDUotc/view?usp=sharing</p>
+<h2>Gameplay</h2>
+<video width="400" controls>
+  <source src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Video/EscapeRoomVideo.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
 <h2>App Screenshots</h2>
 <div style= "float: left;width: 20%;padding: 100px;">
   <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S3.png" width=400, height=250>
