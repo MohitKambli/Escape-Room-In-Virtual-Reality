@@ -9,7 +9,7 @@
 </ul>
 <div style= "float: left;width: 50%;padding: 100px;">
   <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S1.png" width=400, height=250>
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S2.jpg" width=420, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S2.jpg" width=400, height=250>
 </div>
 <h2>Installation Guide</h2>
 <p>Install Microsoft Visual Studio: https://visualstudio.microsoft.com/downloads/</p>
@@ -31,14 +31,14 @@
 <p>https://drive.google.com/file/d/12swi2FVmVpe8UuhNZS1oxATQ7SvDUotc/view?usp=sharing</p>
 <h2>App Screenshots</h2>
 <div style= "float: left;width: 20%;padding: 100px;">
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S3.png" width=420, height=250>
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S4.png" width=420, height=250>
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S5.png" width=420, height=250>
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S6.png" width=420, height=250>
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S7.png" width=420, height=250>
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S8.png" width=420, height=250>
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S9.png" width=420, height=250>
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S10.png" width=420, height=250>
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S11.png" width=420, height=250>
-  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S12.png" width=420, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S3.png" width=400, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S4.png" width=400, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S5.png" width=400, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S6.png" width=400, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S7.png" width=400, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S8.png" width=400, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S9.png" width=400, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S10.png" width=400, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S11.png" width=400, height=250>
+  <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S12.png" width=400, height=250>
 </div>
