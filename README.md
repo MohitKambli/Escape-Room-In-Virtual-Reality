@@ -39,7 +39,7 @@
 <p>https://drive.google.com/file/d/12swi2FVmVpe8UuhNZS1oxATQ7SvDUotc/view?usp=sharing</p>
 <h2>Gameplay</h2>
 <video width="450" height=300 controls>
-  <source src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Video/EscapeRoomVideo.mp4" type="video/mp4">
+  <source src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Video/EscapeRoom.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
 <h2>App Screenshots</h2>
