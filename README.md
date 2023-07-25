@@ -1,4 +1,6 @@
+<html>
 <h1>Escape Room In Virtual Reality</h1>
+<body>
 <p>Escape Room is a mobile VR application which has horror effects such as zombies, laser beams etc. to make the game interesting. The health bar which decreases on collision with such effects, is also an important asset.</p>
 <p>The puzzle defining process is a step-in game design which focuses on the main goal of the project. The puzzle should be designed in such a way that the application of theoretical concepts is used to drive through room. Students need to push their limits to think about the solution of the puzzles. Puzzles introduced in this game are:</p>
 <ul>
@@ -36,7 +38,7 @@
 <h2>APK Download Link</h2>
 <p>https://drive.google.com/file/d/12swi2FVmVpe8UuhNZS1oxATQ7SvDUotc/view?usp=sharing</p>
 <h2>Gameplay</h2>
-<video width="400" controls>
+<video width="450" height=300 controls>
   <source src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Video/EscapeRoomVideo.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
@@ -53,3 +55,5 @@
   <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S11.png" width=400, height=250>
   <img src="https://github.com/MohitKambli/Escape-Room-In-Virtual-Reality/blob/main/Screenshots/S12.png" width=400, height=250>
 </div>
+</body>
+</html>
